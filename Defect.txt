@@ -1,0 +1,10 @@
+We can select date from past dates but we can unavailable or unaccessable.
+We can type alphabates in card number which is specify that only digit can accepted there should be warning at writing time
+Spelling mistake of germany.
+Drop down icon alignment
+After clicking drop down icon position should be change upside
+Drop down over lapping to other drop down 
+There should be validation, user should not be able to select past date 
+Not selecting specific models
+Validation msg should be only visible at specific selector for date select 
+Mandatory field be specific with asterisk 
